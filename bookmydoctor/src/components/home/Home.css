@@ -1,0 +1,27 @@
+
+.text{
+    margin-top: 100px;
+}
+.text2{
+    
+    color: mediumvioletred;
+}
+.text4{
+    color: mediumvioletred;
+}
+#first-card{
+    margin-top: 50px;
+    height:450px;
+    width: 100%;
+}
+.doctor{
+    margin-top: 50px;
+    height:280px;
+    width: 100%;
+}
+
+#icon{
+    color: mediumvioletred;
+}
+
+#more {display: none;}

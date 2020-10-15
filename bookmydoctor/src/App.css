@@ -1,0 +1,21 @@
+nav{
+  background-color: mediumvioletred;
+}
+
+.logo{
+  height: 70px;
+  border: none;
+  margin-left: 20px;
+}
+.navbar-brand{
+  margin-left: auto;
+  padding: 0%;
+  text-decoration-color: mediumvioletred;
+}
+.nav navbar-nav navbar-right{
+  margin-left: 50px;
+}
+
+.fas{
+  color: mediumvioletred;
+}

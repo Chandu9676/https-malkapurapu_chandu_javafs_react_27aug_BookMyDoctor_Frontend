@@ -1,0 +1,21 @@
+.modal-title color{
+    color: rgb(112, 103, 109);
+}
+#exampleModalLabel{
+text-align: center;
+margin-left: 100px;
+color:  mediumvioletred;
+}
+#address{
+width: 460px;
+border-color: rgb(233, 226, 226);
+}
+
+#check-box{
+text-align: right;
+}
+
+.patientContent{
+    color:  mediumvioletred;
+}
+
